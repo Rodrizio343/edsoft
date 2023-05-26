@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 
 const AboutUs = () => {
@@ -8,7 +9,7 @@ const AboutUs = () => {
         <p>Este es el sitio web de nuestra agencia de desarrollo.</p>
         <Link href="/proyectos.html" className="button white ghost">Ver experiencia</Link>
       </div>
-      <img className="background" src="/images/bg-section.jpg" alt="Alumnos estudiando" />
+      <Image className="background" src="/images/bg-section.jpg" alt="Alumnos estudiando" width={500} height={400} />
     </section>
 )
 }

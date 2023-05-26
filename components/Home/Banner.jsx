@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 
 const Banner = () => {
@@ -12,7 +13,7 @@ const Banner = () => {
           </div>
         </div>
         <div className="container">
-          <img className="image" src="/images/computer.svg" alt="Computadora EDsoft" />
+          <Image className="image" src="/images/computer.svg" alt="Computadora EDsoft" width={467} height={380} />
         </div>
       </div>
     </section>

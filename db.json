@@ -2,18 +2,39 @@
   "services": [
     {
       "id": 1,
-      "name": "Servicio 1",
-      "detail": "Diseñamos tu presencia en internet con apariencia profesional 1"
+      "name": "Service 1",
+      "detail": "Detail service 1"
     },
     {
       "id": 2,
-      "name": "Servicio 2",
-      "detail": "Diseñamos tu presencia en internet con apariencia profesional 2"
+      "name": "Service 2",
+      "detail": "Detail service 2"
     },
     {
       "id": 3,
-      "name": "Servicio 3",
-      "detail": "Diseñamos tu presencia en internet con apariencia profesional 3"
+      "name": "Service 3",
+      "detail": "Detail service 3"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "detail": "Detail project 1",
+      "image": "/images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "detail": "Detail project 2",
+      "image": "/images/project-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Project 3",
+      "detail": "Detail project 3",
+      "image": "/images/project-3.jpg"
     }
   ]
 }
