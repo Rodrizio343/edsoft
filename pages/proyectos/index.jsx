@@ -23,7 +23,7 @@ const Projects = ({ projects }) => {
 
 export async function getStaticProps() {
   
-  const resp = await fetch('http://localhost:4050/projects');
+  const resp = await fetch('http://edsoft-rem.vercel.app/api/projects');
   const projects = await resp.json();
   
   return {
