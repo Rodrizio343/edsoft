@@ -6,7 +6,7 @@ const Jobs = () => {
       <div className="content-wrapper">
         <h2 className="title">¿Quieres trabajar con nosotros?</h2>
         <p className="subtitle">Es momento de convertir tu idea en algo real.  Puedes contactarnos en nuestras redes sociales<br/> o enviando un correo a:</p>
-        <Link href="mailto:contacto@edsoft.com" className="button">contacto@edsoft.com</Link>
+        <Link href="mailto:rodrizio343@gmail.com" className="button">rodrizio343@gmail.com</Link>
         <div className="social-networks">
           <Link href="#" target="_blank"><span className="jam jam-facebook"></span></Link>
           <Link href="#" target="_blank"><span className="jam jam-twitter"></span></Link>

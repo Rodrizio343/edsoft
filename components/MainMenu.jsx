@@ -9,13 +9,13 @@ const MainMenu = () => {
           <Link href="/">Inicio</Link>
         </li>
         <li>
-          <Link href="/quienes-somos.html">¿Quiénes somos?</Link>
+          <Link href="/quienes-somos">¿Quiénes somos?</Link>
         </li>
         <li>
-          <Link href="/proyectos.html">Proyectos</Link>
+          <Link href="/proyectos">Proyectos</Link>
         </li>
         <li>
-          <Link href="/contacto.html">Contacto</Link>
+          <Link href="/contacto">Contacto</Link>
         </li>
       </ul>
     </nav>

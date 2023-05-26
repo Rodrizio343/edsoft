@@ -9,7 +9,7 @@ const Banner = () => {
           <h1 className="title">Bienvenidos a EDsoft</h1>
           <p className="subtitle">Necesitas acesoramiento urgente!!! Nosotros te podemos ayudar en la construcción de tu sitio web.</p>
           <div>
-            <Link className="button white" href="/contacto.html">Escríbenos ya mismo!</Link>
+            <Link className="button white" href="/contacto">Escríbenos ya mismo!</Link>
           </div>
         </div>
         <div className="container">
